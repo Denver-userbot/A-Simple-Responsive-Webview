@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         getSupportActionBar().show();
-        start();
         RateThisApp.Config config = new RateThisApp.Config(2, 3);
         config.setUrl("market://details?id=com.kolowaphealth.healthtips");
         RateThisApp.init(config);
@@ -65,14 +64,14 @@ public class MainActivity extends AppCompatActivity {
         textView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                start();
-
+                webview.loadUrl("https://www.yourhealthz.com");
+                frameLayout.setVisibility(View.GONE);
+                webview.setVisibility(View.VISIBLE);
 
             }
         });
-    }
 
-    public void start (){
+
         webview.setWebViewClient
                 (new WebViewClient());
         WebSettings webSettings = webview.getSettings();
@@ -87,8 +86,6 @@ public class MainActivity extends AppCompatActivity {
 
         webview.setWebViewClient(new WebViewClient());
         webview.loadUrl("https://www.yourhealthz.com");
-        frameLayout.setVisibility(View.GONE);
-        webview.setVisibility(View.VISIBLE);
     }
 
     public class WebViewClient extends
@@ -108,7 +105,6 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onPageFinished(WebView view, String url) {
             pd.dismiss();
-pd.cancel();
             super.onPageFinished(view, url);
 
         }
