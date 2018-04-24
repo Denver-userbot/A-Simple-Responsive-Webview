@@ -64,6 +64,7 @@
 
 
             <RelativeLayout
+                android:marginBottom="25dp"
                 android:paddingTop="20dp"
                 android:paddingBottom="20dp"
                 android:layout_gravity="start"
@@ -93,6 +94,7 @@
     </FrameLayout>
 
     <WebView
+        android:marginBottom="25dp"
         android:visibility="visible"
         android:id="@+id/wv_test"
         android:layout_width="match_parent"
