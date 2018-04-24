@@ -1,0 +1,197 @@
+{
+  "project_info": {
+    "project_number": "998263389082",
+    "firebase_url": "https://yourhealthfirebase.firebaseio.com",
+    "project_id": "yourhealthfirebase",
+    "storage_bucket": "yourhealthfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998263389082:android:f1e78505bc7bc15b",
+        "android_client_info": {
+          "package_name": "com.kolowaphealth.yourhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998263389082-lgko85vj6jtnigeq1s1pe8fkm17qjs0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfVz1cou38D840sR6syYSL6qK1j1yeRbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998263389082:android:3cbb6ddf18098a6f",
+        "android_client_info": {
+          "package_name": "com.kolowaphealth.a7reasonsamachristian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998263389082-lgko85vj6jtnigeq1s1pe8fkm17qjs0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfVz1cou38D840sR6syYSL6qK1j1yeRbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998263389082:android:6b0b9d1aab3e4cef",
+        "android_client_info": {
+          "package_name": "com.kolowaphealth.nailssymptoms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998263389082-lgko85vj6jtnigeq1s1pe8fkm17qjs0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfVz1cou38D840sR6syYSL6qK1j1yeRbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998263389082:android:a20d36e27c73b11d",
+        "android_client_info": {
+          "package_name": "com.kolowaphealth.yourhealth1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998263389082-lgko85vj6jtnigeq1s1pe8fkm17qjs0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfVz1cou38D840sR6syYSL6qK1j1yeRbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998263389082:android:c958b63ce9d356b2",
+        "android_client_info": {
+          "package_name": "com.kolowaphealth.fitnesshealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998263389082-lgko85vj6jtnigeq1s1pe8fkm17qjs0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfVz1cou38D840sR6syYSL6qK1j1yeRbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998263389082:android:84f08321c20655df",
+        "android_client_info": {
+          "package_name": "com.kolowaphealth.healthtips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998263389082-lgko85vj6jtnigeq1s1pe8fkm17qjs0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfVz1cou38D840sR6syYSL6qK1j1yeRbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

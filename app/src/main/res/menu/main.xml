@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action"
+        android:title="Settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/exit"
+        android:icon="@drawable/ic_power"
+        android:title="Exit"
+        android:orderInCategory="102"
+        app:showAsAction="always" />
+    <item android:id="@+id/share"
+        android:icon="@drawable/ic_share"
+        android:title="Share"
+        android:orderInCategory="101"
+        app:showAsAction="always" />
+    <item
+        android:title="Rate App"
+        android:id="@+id/rate"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+    <item
+        android:title="More Apps"
+        android:id="@+id/more"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+
+</menu>
